@@ -8,6 +8,7 @@ Homepage: http://pardus.org.tr
 
 Package: eta-java-installer
 Architecture: all
+Depends: default-jre
 Description: Java Executor for ETAP
  This package installs desktop file that can execute
  jar files.
