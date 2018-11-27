@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Java Application Executer
+Name[tr]=Java Uygulama Açıcısı
+Comment=Opens executable offline jsr files with openjdk-7
+Comment[tr]=Çalıştırılabilir kapalı jar dosylarını openjdk-7 ile açar
+Exec=/usr/bin/java -jar %f
+Icon=java
+Terminal=false
+Type=Application
+NoDisplay=true
+Categories=System;Settings;
+MimeType=application/x-java-archive

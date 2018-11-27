@@ -1,0 +1,12 @@
+Source: eta-java-installer
+Section: kde
+Priority: optional
+Maintainer: Hikmet Baş <hikmet.bas@pardus.org.tr>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: http://pardus.org.tr
+
+Package: eta-java-installer
+Architecture: all
+Description: Flash Player for ETAP
+ This package installs flash player.
