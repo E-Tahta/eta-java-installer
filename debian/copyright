@@ -4,8 +4,8 @@ Source: https://pardus.org.tr
 
 
 
-Files: debian/*
-Copyright: 2018 Hikmet Bas <hikmet.bas@pardus.org.tr>
+Files: *
+Copyright: 2018 Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>
 License: GPL-3.0+
 
 License: GPL-3.0+
